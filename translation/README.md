@@ -98,11 +98,11 @@ Script `translate_partial_to_id.py` akan menerjemahkan semua key string dalam pr
 - [x] Shoes
 - [x] Dorm
 - [x] Class
-- [] Self Intro
-- [] Tagline
-- [] Ears
-- [] Tail
-- [] Strong
-- [] Weak
-- [] Family
-- [] Secrets
+- [x] Self Intro (Masih harus di cek ulang)
+- [x] Tagline (Masih harus di cek ulang)
+- [x] Ears (Masih harus di cek ulang)
+- [x] Tail (Masih harus di cek ulang)
+- [x] Strong (Masih harus di cek ulang)
+- [x] Weak (Masih harus di cek ulang)
+- [x] Family (Masih harus di cek ulang)
+- [x] Secrets (Masih harus di cek ulang)
