@@ -94,15 +94,15 @@ Script `translate_partial_to_id.py` akan menerjemahkan semua key string dalam pr
 4. **Re-extract untuk update**: Jalankan `extract_unique_values.py` lagi jika ada file JSON baru
 
 ## Progress
-[x] Weight
-[x] Shoes
-[x] Dorm
-[x] Class
-[] Self Intro
-[] Tagline
-[] Ears
-[] Tail
-[] Strong
-[] Weak
-[] Family
-[] Secrets
+- [x] Weight
+- [x] Shoes
+- [x] Dorm
+- [x] Class
+- [] Self Intro
+- [] Tagline
+- [] Ears
+- [] Tail
+- [] Strong
+- [] Weak
+- [] Family
+- [] Secrets
