@@ -92,3 +92,17 @@ Script `translate_partial_to_id.py` akan menerjemahkan semua key string dalam pr
 2. **Frekuensi tinggi prioritas**: Nilai dengan `count` tinggi muncul lebih sering
 3. **Preserve nuansa**: Jaga nuansa dan konteks saat menerjemahkan
 4. **Re-extract untuk update**: Jalankan `extract_unique_values.py` lagi jika ada file JSON baru
+
+## Progress
+[x] Weight
+[x] Shoes
+[x] Dorm
+[x] Class
+[] Self Intro
+[] Tagline
+[] Ears
+[] Tail
+[] Strong
+[] Weak
+[] Family
+[] Secrets
