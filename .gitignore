@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But allow the translation folder and its contents
+!translation/
+!translation/**
+
+# Allow git files
+!.gitignore
+!.git/

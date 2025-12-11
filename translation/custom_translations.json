@@ -1,0 +1,1392 @@
+{
+  "_info": {
+    "description": "File ini berisi terjemahan custom untuk semua key dalam 'profile'",
+    "instructions": "Isi field 'translation' dengan terjemahan bahasa Indonesia yang sesuai",
+    "note": "Field 'count' menunjukkan berapa kali nilai tersebut muncul di dataset",
+    "special_note": "Key yang sudah diterjemahkan (weight, dorm, class, shoes) sudah memiliki terjemahan default"
+  },
+  "translations": {
+    "class": {
+      "Divisi Senior": {
+        "count": 22,
+        "translation": "Divisi Senior"
+      },
+      "Divisi Junior": {
+        "count": 18,
+        "translation": "Divisi Junior"
+      },
+      "???": {
+        "count": 1,
+        "translation": "???"
+      }
+    },
+    "dorm": {
+      "Asrama Ritto": {
+        "count": 31,
+        "translation": "Asrama Ritto"
+      },
+      "Asrama Miho": {
+        "count": 9,
+        "translation": "Asrama Miho"
+      },
+      "Tinggal sendiri": {
+        "count": 1,
+        "translation": "Tinggal sendiri"
+      }
+    },
+    "ears": {
+      "Always jerk a little anytime she hears \"Natie\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Big words go in one ear and out the other": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can hear every single one of her fans": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can hear someone say \"one-on-one\" from a mile away": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can hear the faintest rumble of an empty stomach": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can pop her ears at will": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can tell apart people from her hometown just from their cheers": {
+        "count": 1,
+        "translation": ""
+      },
+      "Change positions a lot when she's reading romance manga": {
+        "count": 1,
+        "translation": ""
+      },
+      "Completely betray her true feelings": {
+        "count": 1,
+        "translation": ""
+      },
+      "Do not tremble in the slightest when she's doing a tea ceremony": {
+        "count": 1,
+        "translation": ""
+      },
+      "Droop ever so slightly when she takes care of flowers": {
+        "count": 1,
+        "translation": ""
+      },
+      "Droop when she hears of other people's misfortune": {
+        "count": 1,
+        "translation": ""
+      },
+      "Finds the sound of a metronome calming": {
+        "count": 1,
+        "translation": ""
+      },
+      "Has perfect pitch": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hear everything as a compliment": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her best friend says \"Even the way her ears move is annoying\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her blood starts pumping when she hears fanfare": {
+        "count": 1,
+        "translation": ""
+      },
+      "If she beckons you, it's because she wants to be spoiled": {
+        "count": 1,
+        "translation": ""
+      },
+      "Likes cleaning out people's ears. Does not like having her ears cleaned": {
+        "count": 1,
+        "translation": ""
+      },
+      "Never fails to hear praise or the Prez's voice": {
+        "count": 1,
+        "translation": ""
+      },
+      "Never, ever touch her ears or forehead": {
+        "count": 1,
+        "translation": ""
+      },
+      "Occasionally stand straight and still when she hears something": {
+        "count": 1,
+        "translation": ""
+      },
+      "Often tremble slightly": {
+        "count": 1,
+        "translation": ""
+      },
+      "Only hear about half of what anyone says": {
+        "count": 1,
+        "translation": ""
+      },
+      "Only pay attention to topics she's interested in": {
+        "count": 1,
+        "translation": ""
+      },
+      "Perk right up when they hear a command, even if she's dead asleep": {
+        "count": 1,
+        "translation": ""
+      },
+      "Perks up and teleports to the kitchen when she hears the sounds of cooking": {
+        "count": 1,
+        "translation": ""
+      },
+      "She comes running the second she hears \"party\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "She covers people's ears and asks \"Guess who?\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "She gets strangely bashful when they're touched": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's been sensitive to noises since she was little, and was therefore easily startled": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's proud to have ears most fitting of a tiara": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sometimes doesn't hear anything when she thinks about running": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sometimes used as directional fortune-telling": {
+        "count": 1,
+        "translation": ""
+      },
+      "Stand up straight whenever she hears someone count": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tend to stand very straight when she's around others": {
+        "count": 1,
+        "translation": ""
+      },
+      "Their hair bristles when they pick up an \"emotional wave\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Twitch noticeably whenever she comes up with a pun": {
+        "count": 1,
+        "translation": ""
+      },
+      "Uninterested in hearing anything that isn't first-rate": {
+        "count": 1,
+        "translation": ""
+      },
+      "Wants to boogie when she hears Eurobeat music": {
+        "count": 1,
+        "translation": ""
+      },
+      "Will win the struggle against her alarm clock someday": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "family": {
+      "Admires and misses her hard-working mother": {
+        "count": 1,
+        "translation": ""
+      },
+      "Apparently, it's a national secret": {
+        "count": 1,
+        "translation": ""
+      },
+      "Articles about her are displayed on the walls of her family's bar": {
+        "count": 1,
+        "translation": ""
+      },
+      "As a family that's had to travel and move for work a lot, they're are all skilled in languages": {
+        "count": 1,
+        "translation": ""
+      },
+      "Coming from a theater family, her parents travel all over the country": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gave her more pocket money for shoes": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gets her caring nature from her mother and is actually the youngest child": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gets her flawless skin from her mom and her golden blonde hair from her dad": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gets her love of Japan from her parents. Her home has a Japanese-style room": {
+        "count": 1,
+        "translation": ""
+      },
+      "Goes fishing with her grandpa every time she goes home": {
+        "count": 1,
+        "translation": ""
+      },
+      "Grew up with a hawk named \"Mambo\" that was basically a sibling to her": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her dad looks so young that he's often mistaken for her brother": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her family always vacations at hot springs, and knows of at least one hidden spring": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her family lives an analog lifestyle now because their appliances kept breaking": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her family loves camping, festivals, and barbecues!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her family runs a daycare with a reputation for warmth": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her family's motto is \"Compliments, compliments, and more compliments!\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her father is a master chef, and her mother is a confectionary teacher": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her father is a pilot, and they used to play together at the airport": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her hair ornament is the first idol costume part that her mother made": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her mother is terrible at housework, so they have a full-time maid": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her mother used to have her wear matching hairstyles with her sister": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her parents and sister say her silence is proof of her kindness": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her parents call her \"Mackie\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her parents have been teaching her the art of governing from a young age": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her parents knew to give her clothing that was durable as well as cute": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her parents used to read her picture books as bedtime stories": {
+        "count": 1,
+        "translation": ""
+      },
+      "Meticulously plans her mom's birthday party a year in advance.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Nothing gets in the way of her family's annual tradition of watching the Derby": {
+        "count": 1,
+        "translation": ""
+      },
+      "Often gets scolded by her mom for causing mischief with her dad": {
+        "count": 1,
+        "translation": ""
+      },
+      "She gets her eye color from her birth mother": {
+        "count": 1,
+        "translation": ""
+      },
+      "She likes her mom's carrot rice the best": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's thankful to her parents for making a beautiful daughter like her": {
+        "count": 1,
+        "translation": ""
+      },
+      "The bright red sports car is a hand-me-down from her dad": {
+        "count": 1,
+        "translation": ""
+      },
+      "The oddball of a famous racing family": {
+        "count": 1,
+        "translation": ""
+      },
+      "The talented older sister admires her little sister's bright personality": {
+        "count": 1,
+        "translation": ""
+      },
+      "There's a rumor that a BNW mom group is about to form": {
+        "count": 1,
+        "translation": ""
+      },
+      "They cried when she stopped calling them \"Mama\" and \"Papa\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "They miss their daughter so much, they've applied for positions at Tracen Academy": {
+        "count": 1,
+        "translation": ""
+      },
+      "They run a cake shop famous for its baumkuchen": {
+        "count": 1,
+        "translation": ""
+      },
+      "Welcome-home fireworks are always at the ready for her": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "self_intro": {
+      "A mighty crimson bird swoops onto the track! It's the one, the only! El Condor Pasaaa, the strongest Umamusume in the wooorld!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Bow down! Gold Ship has arrived! Whether I gotta go through a raging inferno, the most downtrodden turf, or even way out there in outer space, I'm always up for adventure! ☆": {
+        "count": 1,
+        "translation": ""
+      },
+      "Buono, buono! ♪ Hishi Akebono here! ☆ Whether it's cooking or racing, I put a little bit of love into everything I do!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Greetings! They call me Matikanefukukitaru! My unwavering faith in the great Shiraoki will bring abundant blessings into our lives. Available for divination day and night!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hehe. ♪ I'm Super Creek. I'll work hard to make everyone around me smile. Just leave it to me. ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hello! Daiwa Scarlet here! I'll try my best to... What am I saying? \"Trying\" won't cut it. I will be number one!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hello! I'm Sakura Bakushin O! As you can tell, I'm the model class representative AND Umamusume! BAKUSHIIIN!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hello. I'm Seiun Sky. I'm just taking things as they come. Good things come to those who wait, you know?": {
+        "count": 1,
+        "translation": ""
+      },
+      "Here comes Curren Chan, ready to make the whooole world a cuter place! ☆ Curren's the only girl you need to keep your eyes on! Okay? ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hey hey! It's Tokai Teio! You might wanna keep an eye on me! Because there's gonna be a new undefeated Triple Crown champion in town!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hey, hey! My dream's always been to become a Derby Champion! OH, RIGHT! MY NAME! I'm Winning Ticket! Keep your eyes on me!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hey. I'm Nice Nature. Haha, truth is, I don't really live up to people's expectations of me, but... that's cool too, you know? I prefer to take it easy.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hi hi! I'm Digitan! I'm here to support all these sparkling Umamusume! Every day here is a good day! Especially for an Uma Otaku!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hi! I-I'm Meisho Doto. I, uh... I... I hope someday I can have the confidence to... Uh... I e-endeavor to... Oh, d-dang, I keep tripping up...": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hiii! Maruzensky here! You came here to see me, right? My running's out of this world! Hehe! Try not to fall in love too hard, okay? ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "Howdy! Taiki Shuttle here! I'm aimin' to put smiles on some faces with some hard runnin'!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I am Air Groove. If you are unwavering in your beliefs, your ideals will blossom. It is my role as Empress to lead by example.": {
+        "count": 1,
+        "translation": ""
+      },
+      "I am Mejiro McQueen. I shall surely fulfill my family's ambition to claim the Tenno Sho crown.": {
+        "count": 1,
+        "translation": ""
+      },
+      "I am Symboli Rudolf. I hold the honor of being the \"Emperor\" who seeks to help all Umamusume reach their true potential. Together, let us forge a path to honor and glory!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I see a buncha Umamusume here looking like they wanna fight! Well, Hishiama will give you all you can handle! Come at me! One-on-one!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Agnes Tachyon. You wouldn't be interested in finding out just how fast an Umamusume can run, would you? I just so happen to be looking for a guinea pig...": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Biwa Hayahide. My goal is to devise the perfect winning equation... I'd also like to point out that my head is of completely average size!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Haru Urara! I like carrots! Oh, and running too! ♪ I'm always working my hardest to take first place!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Maya, heh heh! ☆ I love all things exciting! The thrill of adrenaline's the best! ♪ Nice to meet ya!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Narita Brian. I'm here to run circles around my opponents, not chit-chat. That's it.": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Oguri Cap. I'll do my best to win for the folks back home. Thanks for your support.": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Rice Shower... To be honest, all I ever do is cause bad things to happen, and... I'm really just no good... B-but I'm trying to be better!": {
+        "count": 1,
+        "translation": ""
+      },
+      "I'm Silence Suzuka. I love to run, and I won't give up my lead to anyone. Uh... that's about it.": {
+        "count": 1,
+        "translation": ""
+      },
+      "It's everyone's favorite jet-black entertainer, Fuji Kiseki! I'm a modern miracle! I put smiles on faces wherever I go, you know? ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "Muahahaha! Feast your eyes upon your beautiful and powerful Overlord, T.M. Opera O! My legend... begins now!": {
+        "count": 1,
+        "translation": ""
+      },
+      "My name is Eishin Flash. I run to preserve Umamusume tradition. I always run right on schedule.": {
+        "count": 1,
+        "translation": ""
+      },
+      "My name is Grass Wonder. I was born an Umamusume, so I will take this path as far as I possibly can. Hee hee. ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "My name is Mihono Bourbon. My objective is to win the Triple Crown. Please refer to my specs for information regarding my capabilities.": {
+        "count": 1,
+        "translation": ""
+      },
+      "My name's Smart Falcon, but you can call me Falco! My dream is to become an Umadol! Just let me know if you want my autograph! ☆": {
+        "count": 1,
+        "translation": ""
+      },
+      "My name's Special Week! My dream is to be the top Umamusume in all of Japan! I gotta work hard to make my moms proud!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Ohoho! I am Kawakami Princess. That's right! A princess among princesses. I'm here to smash my opponents into the dirt. Gracefully, of course!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Ohoho! My name is King Halo. As a first-rate competitor, you can naturally expect great things from me. Rest assured, King Halo will be a household name soon enough.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sup! Mejiro Ryan here! I'm real big into fitness and lifting. It's all 'bout keeping yourself swole! See you at the gym!": {
+        "count": 1,
+        "translation": ""
+      },
+      "The name's Gold City. You better not think I'm just another pretty face. I'll let my running do my talking for me.": {
+        "count": 1,
+        "translation": ""
+      },
+      "The name's Narita Taishin. I'm in this to make all the people who doubted me look stupid. Now leave me alone.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Yo! Vodka here! Listen up. My policy is to be the coolest at all times! I don't act all lame. Got that?": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "shoes": {
+      "Kiri dan kanan : 23,0cm": {
+        "count": 5,
+        "translation": ""
+      },
+      "Kiri dan kanan : 24,0cm": {
+        "count": 4,
+        "translation": ""
+      },
+      "Kiri dan kanan: 24,5cm": {
+        "count": 4,
+        "translation": ""
+      },
+      "Kiri dan kanan : 21,5cm": {
+        "count": 3,
+        "translation": ""
+      },
+      "Kiri dan kanan : 22,0cm": {
+        "count": 3,
+        "translation": ""
+      },
+      "Kiri dan kanan : 25,0cm": {
+        "count": 3,
+        "translation": ""
+      },
+      "Kiri dan kanan: 22,5cm": {
+        "count": 3,
+        "translation": ""
+      },
+      "Kiri dan kanan : 20,5cm": {
+        "count": 2,
+        "translation": ""
+      },
+      "Kiri dan kanan : 26,0cm": {
+        "count": 2,
+        "translation": ""
+      },
+      "Kiri: 23,5cm Kanan: 23,0cm": {
+        "count": 2,
+        "translation": ""
+      },
+      "Kiri dan kanan : 21,0cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan : 25,5cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan : 26,5cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan : 27,0cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan : 28,0cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan: 20,0cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan: 23,5cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri dan kanan: 25.0cm (Khusus)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri: 23,0cm Kanan: 23,5cm": {
+        "count": 1,
+        "translation": ""
+      },
+      "Kiri: 24,5cm Kanan: 24,0cm": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "strong": {
+      "Air bike": {
+        "count": 1,
+        "translation": ""
+      },
+      "Being needed, helping others": {
+        "count": 1,
+        "translation": ""
+      },
+      "Cheering on friends, feeling her feelings": {
+        "count": 1,
+        "translation": ""
+      },
+      "Chess": {
+        "count": 1,
+        "translation": ""
+      },
+      "Cleaning": {
+        "count": 1,
+        "translation": ""
+      },
+      "Cracking walnuts": {
+        "count": 1,
+        "translation": ""
+      },
+      "Design and fashion": {
+        "count": 1,
+        "translation": ""
+      },
+      "Detailed food reports": {
+        "count": 1,
+        "translation": ""
+      },
+      "Drawing": {
+        "count": 1,
+        "translation": ""
+      },
+      "Drifting": {
+        "count": 1,
+        "translation": ""
+      },
+      "Eating delicious food": {
+        "count": 1,
+        "translation": ""
+      },
+      "Exterminating pests (by hand)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Fortune-telling": {
+        "count": 1,
+        "translation": ""
+      },
+      "Games, housework": {
+        "count": 1,
+        "translation": ""
+      },
+      "Growing flowers": {
+        "count": 1,
+        "translation": ""
+      },
+      "Impromptu opera performances": {
+        "count": 1,
+        "translation": ""
+      },
+      "Japanese sweets, Japanese culture, competitive karuta": {
+        "count": 1,
+        "translation": ""
+      },
+      "Making friends": {
+        "count": 1,
+        "translation": ""
+      },
+      "Making sweets, sumo wrestling": {
+        "count": 1,
+        "translation": ""
+      },
+      "Miracle-level massages": {
+        "count": 1,
+        "translation": ""
+      },
+      "Model walk": {
+        "count": 1,
+        "translation": ""
+      },
+      "Moving facial muscles": {
+        "count": 1,
+        "translation": ""
+      },
+      "Naps, fishing": {
+        "count": 1,
+        "translation": ""
+      },
+      "Positive thinking": {
+        "count": 1,
+        "translation": ""
+      },
+      "Pretty much anything": {
+        "count": 1,
+        "translation": ""
+      },
+      "Pro wrestling": {
+        "count": 1,
+        "translation": ""
+      },
+      "Recreating Art": {
+        "count": 1,
+        "translation": ""
+      },
+      "Remembering names and faces": {
+        "count": 1,
+        "translation": ""
+      },
+      "Research, eating sweets with tea": {
+        "count": 1,
+        "translation": ""
+      },
+      "Running long distances": {
+        "count": 1,
+        "translation": ""
+      },
+      "Selfies, piano": {
+        "count": 1,
+        "translation": ""
+      },
+      "Serving homemade cooking": {
+        "count": 1,
+        "translation": ""
+      },
+      "Staring contests": {
+        "count": 1,
+        "translation": ""
+      },
+      "Staying positive, enka": {
+        "count": 1,
+        "translation": ""
+      },
+      "Studying, housework": {
+        "count": 1,
+        "translation": ""
+      },
+      "Surprising people": {
+        "count": 1,
+        "translation": ""
+      },
+      "Table manners": {
+        "count": 1,
+        "translation": ""
+      },
+      "Table tennis, finding new snacks": {
+        "count": 1,
+        "translation": ""
+      },
+      "Taking care of others": {
+        "count": 1,
+        "translation": ""
+      },
+      "Weightlifting": {
+        "count": 1,
+        "translation": ""
+      },
+      "Working as hard as possible": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "tagline": {
+      "A blunt racer and the gold standard in racing and beauty.": {
+        "count": 1,
+        "translation": ""
+      },
+      "A coolheaded dreamer from the countryside.": {
+        "count": 1,
+        "translation": ""
+      },
+      "A fiery intellectual. Logic is her weapon!": {
+        "count": 1,
+        "translation": ""
+      },
+      "A friendly girl born in the U.S.": {
+        "count": 1,
+        "translation": ""
+      },
+      "A mad scientist who fears no law. Weaknesses of the flesh can be overcome!": {
+        "count": 1,
+        "translation": ""
+      },
+      "A shining star of pure cuteness! I need lots of love and attention, okay?": {
+        "count": 1,
+        "translation": ""
+      },
+      "Actions speak louder than words! A tough and stubborn lone wolf.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Always at your service. The classiest racer around.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Always follows commands! The cyborg Umamusume.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Beyond arrogant! This hothead hates to lose.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Big and generous... portions? Get some more buono in your life! ♪": {
+        "count": 1,
+        "translation": ""
+      },
+      "Bringer of misfortune? This racer pursues her dreams despite her dreary outlook.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Cool and matter-of-fact! Her slight frame gives her an unexpected advantage.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Does what she wants, when she wants. As free as a drifting cloud...": {
+        "count": 1,
+        "translation": ""
+      },
+      "Don't expect much from her. This Umamusume is super cynical.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Everything she does is according to her plan. A solemn and diligent mädchen.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Extremely haughty. Her pride extends to the heavens!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Fortune be with me! This charm-tastic Umamusume loves fortune-telling.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Headstrong and full of life! A roadster with a heart of gold.": {
+        "count": 1,
+        "translation": ""
+      },
+      "I love Umamusume! A super versatile otaku.": {
+        "count": 1,
+        "translation": ""
+      },
+      "In order to change her outlook and herself, this pessimist gives it her all.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Keeping it old-school! A real hot rod!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Leave the fanservice to her! Self-proclaimed future top Umadol.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Motherly and kind, her presence is soothing.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Neat and sweet. Japanese at heart, she's back home from the U.S.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Never hold back your feelings! This girl wears her heart on her sleeve.": {
+        "count": 1,
+        "translation": ""
+      },
+      "No matter how many times she falls, this girl always picks herself back up!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Nothing beats a good workout! Even the sweat of her brow is earnest and pure.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Rar'n to go! A pure-hearted girl focused on her dream.": {
+        "count": 1,
+        "translation": ""
+      },
+      "She dreams of being a princess! A bold spitfire of an Umamusume.": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's like your sweet little sister. She can't wait to grow up!": {
+        "count": 1,
+        "translation": ""
+      },
+      "The North American Phantom Bird! A vivacious and quirky lucha libre.": {
+        "count": 1,
+        "translation": ""
+      },
+      "The coolly calculating Empress. Highly gifted and ambitious.": {
+        "count": 1,
+        "translation": ""
+      },
+      "The crown jewel of the prestigious Mejiro family. A classy and poised young lady.": {
+        "count": 1,
+        "translation": ""
+      },
+      "The pompous star of the stage. Her laugh fills the room!": {
+        "count": 1,
+        "translation": ""
+      },
+      "The reigning Emperor. Her rule is absolute!": {
+        "count": 1,
+        "translation": ""
+      },
+      "The silent runner aiming to break the sound barrier.": {
+        "count": 1,
+        "translation": ""
+      },
+      "This class representative's gone wild! Full Speed Bakushiiiin!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Unbeatable and adorable! A happy hoppin' racer.": {
+        "count": 1,
+        "translation": ""
+      },
+      "Wild and unpredictable, this golden runner is unlike anybody else!": {
+        "count": 1,
+        "translation": ""
+      },
+      "You wanna go? One-on-one! The dorm leader everyone knows and loves.": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "tail": {
+      "Apparently grabbing the tail is a foul": {
+        "count": 1,
+        "translation": ""
+      },
+      "Can get bugs off her back without looking over her shoulder": {
+        "count": 1,
+        "translation": ""
+      },
+      "Completely stops moving when she's fortune-telling": {
+        "count": 1,
+        "translation": ""
+      },
+      "Currently practicing a cool way to swish her tail": {
+        "count": 1,
+        "translation": ""
+      },
+      "Even her tail movements are first-rate": {
+        "count": 1,
+        "translation": ""
+      },
+      "Even the hairs on her tail feel electric when she's giving a speech": {
+        "count": 1,
+        "translation": ""
+      },
+      "Expresses her joy, anger, and even sorrow": {
+        "count": 1,
+        "translation": ""
+      },
+      "Fights with her comb everyday to tame her curls": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gets tangled often because she fidgets with it when she worries": {
+        "count": 1,
+        "translation": ""
+      },
+      "Getting it all silky with a morning shower is her favorite part of the day": {
+        "count": 1,
+        "translation": ""
+      },
+      "Good luck grabbing it when she's in full-on Bakushin Mode": {
+        "count": 1,
+        "translation": ""
+      },
+      "Great at calming children": {
+        "count": 1,
+        "translation": ""
+      },
+      "Has a hard time getting her tail through the hole in her pants when it's humid": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her glossy black tail is admired by many students": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her tail wags ferociously when she lies": {
+        "count": 1,
+        "translation": ""
+      },
+      "Her tail's strong enough that she can stand on it... according to rumors": {
+        "count": 1,
+        "translation": ""
+      },
+      "Involuntarily goes completely still when having her picture taken": {
+        "count": 1,
+        "translation": ""
+      },
+      "Just looks good without doing anything": {
+        "count": 1,
+        "translation": ""
+      },
+      "Lovingly named \"Princess Tail\"": {
+        "count": 1,
+        "translation": ""
+      },
+      "Moves along with her emotions, making her a terrible poker player": {
+        "count": 1,
+        "translation": ""
+      },
+      "Seems to glisten when light hits it": {
+        "count": 1,
+        "translation": ""
+      },
+      "She always makes efforts to reduce her wind resistance": {
+        "count": 1,
+        "translation": ""
+      },
+      "She gets her tail done at a salon before concerts": {
+        "count": 1,
+        "translation": ""
+      },
+      "She never cared much for appearances": {
+        "count": 1,
+        "translation": ""
+      },
+      "She really works up a sweat, so she has a separate towel for her tail": {
+        "count": 1,
+        "translation": ""
+      },
+      "She secretly brushes it late at night": {
+        "count": 1,
+        "translation": ""
+      },
+      "She trims it to the most exact millimeter": {
+        "count": 1,
+        "translation": ""
+      },
+      "She used to think spinning it would make her run faster": {
+        "count": 1,
+        "translation": ""
+      },
+      "She uses a tail spray sent by the folks back home": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's flexible enough, so there's no spot she can't reach": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's mindful not to hit people with her tail": {
+        "count": 1,
+        "translation": ""
+      },
+      "She's mindful of how she sits so as not to mess up the hairs": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sometimes forgets it in her room (according to her)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sway gracefully like magnificent feather accessories of the stage": {
+        "count": 1,
+        "translation": ""
+      },
+      "Swishes her tail excitedly when she talks about sports": {
+        "count": 1,
+        "translation": ""
+      },
+      "The hairs stand on end when she gets an idea": {
+        "count": 1,
+        "translation": ""
+      },
+      "Twirls around whenever she whisks ingredients": {
+        "count": 1,
+        "translation": ""
+      },
+      "Ultra-soft and fluffy—almost captivatingly so": {
+        "count": 1,
+        "translation": ""
+      },
+      "Unless you're a friend, touching it will earn you a swift kick": {
+        "count": 1,
+        "translation": ""
+      },
+      "Uses the same tail oil as her mother": {
+        "count": 1,
+        "translation": ""
+      },
+      "Wags with excitement when she's receiving attention": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "weak": {
+      "Anything requiring three or more steps": {
+        "count": 1,
+        "translation": ""
+      },
+      "Art (Excluding Recreations)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Being alone": {
+        "count": 1,
+        "translation": ""
+      },
+      "Being quiet": {
+        "count": 1,
+        "translation": ""
+      },
+      "Being wasteful": {
+        "count": 1,
+        "translation": ""
+      },
+      "Boring tasks": {
+        "count": 1,
+        "translation": ""
+      },
+      "Cholesterol": {
+        "count": 1,
+        "translation": ""
+      },
+      "Compromising": {
+        "count": 1,
+        "translation": ""
+      },
+      "Crowded places": {
+        "count": 1,
+        "translation": ""
+      },
+      "Crowds": {
+        "count": 1,
+        "translation": ""
+      },
+      "Difficult kanji": {
+        "count": 1,
+        "translation": ""
+      },
+      "Doctors": {
+        "count": 1,
+        "translation": ""
+      },
+      "Drawing": {
+        "count": 1,
+        "translation": ""
+      },
+      "Eating snacks with tea": {
+        "count": 1,
+        "translation": ""
+      },
+      "Gossiping about romance": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hot-pot control freaks": {
+        "count": 1,
+        "translation": ""
+      },
+      "Insects, disrespect for history and tradition": {
+        "count": 1,
+        "translation": ""
+      },
+      "Leisurely drives": {
+        "count": 1,
+        "translation": ""
+      },
+      "Not going all out!": {
+        "count": 1,
+        "translation": ""
+      },
+      "Others' misfortune, ghosts": {
+        "count": 1,
+        "translation": ""
+      },
+      "Petting small creatures": {
+        "count": 1,
+        "translation": ""
+      },
+      "Rainy season": {
+        "count": 1,
+        "translation": ""
+      },
+      "Research interruptions, bitter things": {
+        "count": 1,
+        "translation": ""
+      },
+      "Resisting sweets": {
+        "count": 1,
+        "translation": ""
+      },
+      "Secrets": {
+        "count": 1,
+        "translation": ""
+      },
+      "Shipping Wars": {
+        "count": 1,
+        "translation": ""
+      },
+      "Small talk": {
+        "count": 1,
+        "translation": ""
+      },
+      "Small, confined spaces (The gate, the gate!)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Social media": {
+        "count": 1,
+        "translation": ""
+      },
+      "Staying still": {
+        "count": 1,
+        "translation": ""
+      },
+      "Studying": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sweets": {
+        "count": 1,
+        "translation": ""
+      },
+      "Swimming": {
+        "count": 1,
+        "translation": ""
+      },
+      "Things that suddenly flash or move": {
+        "count": 1,
+        "translation": ""
+      },
+      "Things unsuitable for a king, such as crowds and heat": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tongue twisters": {
+        "count": 1,
+        "translation": ""
+      },
+      "Unlucky things": {
+        "count": 1,
+        "translation": ""
+      },
+      "Using electronic appliances": {
+        "count": 1,
+        "translation": ""
+      },
+      "Using her head": {
+        "count": 1,
+        "translation": ""
+      },
+      "Using her train pass": {
+        "count": 1,
+        "translation": ""
+      },
+      "Waking up early": {
+        "count": 1,
+        "translation": ""
+      }
+    },
+    "weight": {
+      "Tidak berubah": {
+        "count": 13,
+        "translation": ""
+      },
+      "Menolak pengukuran": {
+        "count": 2,
+        "translation": ""
+      },
+      "Sedikit peningkatan (angkat beban berhasil!)": {
+        "count": 2,
+        "translation": ""
+      },
+      "Bentuk luar biasa": {
+        "count": 1,
+        "translation": ""
+      },
+      "Bentuk optimal": {
+        "count": 1,
+        "translation": ""
+      },
+      "Hampir ideal": {
+        "count": 1,
+        "translation": ""
+      },
+      "Peningkatan yang sangat sedikit": {
+        "count": 1,
+        "translation": ""
+      },
+      "Penurunan sedikit karena hari ini adalah hari sial": {
+        "count": 1,
+        "translation": ""
+      },
+      "Rahasia ♥": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sangat besar": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (alasannya rahasia)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (berlebihan)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (membuat penyesuaian yang panik!)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (tapi bukan masalah besar)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (tapi tidak masalah!)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit peningkatan (tidak ada komentar)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit penurunan (dengan anggaran terbatas)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sedikit turun (gugup sebelum balapan)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sempurna": {
+        "count": 1,
+        "translation": ""
+      },
+      "Sempurna selamanya (menurut dirinya sendiri)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak ada halangan untuk balapan": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak ada perubahan (bahkan tanpa kesalahan 1g)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak ada perubahan (tentu saja!)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak diumumkan": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak jelas (menolak pengukuran)": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak muncul untuk pengukuran": {
+        "count": 1,
+        "translation": ""
+      },
+      "Tidak terukur": {
+        "count": 1,
+        "translation": ""
+      }
+    }
+  }
+}
