@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Script helper untuk merge terjemahan dari untranslated_values.json ke custom_translations.json
+Mendukung semua key profile termasuk array seperti 'secrets'
 """
 
 import json

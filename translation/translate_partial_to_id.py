@@ -73,8 +73,24 @@ def translate_profile_keys(profile: dict, translator: GoogleTranslator) -> dict:
     Terjemahkan semua key string dalam profile menggunakan custom translations
     """
     for key, value in profile.items():
-        # Hanya terjemahkan nilai string, skip array/list
-        if isinstance(value, str) and value.strip():
+        # Jika value adalah array (seperti 'secrets')
+        if isinstance(value, list):
+            translated_list = []
+            for item in value:
+                if isinstance(item, str) and item.strip():
+                    original = item
+                    translated = translate_with_fallback(original, translator)
+                    translated_list.append(translated)
+                    
+                    # Log jika ada perubahan
+                    if original != translated:
+                        print(f"   {key}[]: '{original[:50]}...' → '{translated[:50]}...'")
+                else:
+                    translated_list.append(item)
+            profile[key] = translated_list
+        
+        # Jika value adalah string
+        elif isinstance(value, str) and value.strip():
             original = value
             translated = translate_with_fallback(original, translator)
             profile[key] = translated
